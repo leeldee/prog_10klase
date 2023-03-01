@@ -1,0 +1,37 @@
+{
+    "students" : [
+      {
+        "name":"John",
+        "John":
+        {
+        "surname":"Stone",
+        "class":"10.c",
+        "school":"Oxford",
+        "grades":[
+          {
+          "gradelvl_math": 7,
+          "gradelvl_english": 8,
+          "gradelvl_science": 9
+          }
+        ]
+      }
+  },
+  {
+        "name":"Elchin",
+        "Elchin":
+        {
+        "surname":"Teacher",
+        "class":"123.c",
+        "school":"Datorium highschool",
+        "grades":[
+          {
+          "gradelvl_math": 9,
+          "gradelvl_english": 9,
+          "gradelvl_science": 10
+          }
+        ]
+      }
+  
+  }
+  ]
+  }
